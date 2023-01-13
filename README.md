@@ -3,6 +3,9 @@
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
+<p align="center">
+  こちらのテンプレートを使用して作成しています！
+</p>
 <h1 align="center">
   Gatsby Starter Portfolio: Cara
 </h1>
@@ -30,9 +33,9 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 
 ## ✨ Features
 
-- Theme UI-based theming
-- react-spring Parallax Effect
-- CSS Animations on Shapes
+-   Theme UI-based theming
+-   react-spring Parallax Effect
+-   CSS Animations on Shapes
 
 ## 🚀 Getting Started
 
@@ -100,9 +103,9 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 
 ### General
 
-- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+-   **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _How-to Guides_ and _Reference_ items in the primary navigation.
+-   **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _How-to Guides_ and _Reference_ items in the primary navigation.
 
 ## 🌟 Supporting me
 
