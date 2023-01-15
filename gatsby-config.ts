@@ -8,13 +8,13 @@ const config: GatsbyConfig = {
 		// You can overwrite values here that are used for the SEO component
 		// You can also add new values here to query them like usual
 		// See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-		siteTitle: `Cara`,
-		siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-		siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+		siteTitle: `Make with Take`,
+		siteTitleAlt: `Make with Take`,
+		siteHeadline: `Make with Take`,
 		siteUrl: `https://cara.lekoarts.de`,
-		siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+		siteDescription: `Webエンジニア：島津岳明のポートフォリオサイト`,
 		siteImage: `/banner.jpg`,
-		author: `@lekoarts_de`,
+		author: `@zp_takeaki0817`,
 	},
 	trailingSlash: `never`,
 	plugins: [
@@ -26,9 +26,9 @@ const config: GatsbyConfig = {
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
-				name: `Cara - @lekoarts/gatsby-theme-cara`,
-				short_name: `Cara`,
-				description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+				name: `Make with Take`,
+				short_name: `Make with Take`,
+				description: `Webエンジニア：島津岳明のポートフォリオサイト`,
 				start_url: `/`,
 				background_color: `#141821`,
 				// This will impact how browsers show your PWA/website
