@@ -14,7 +14,7 @@ const config: GatsbyConfig = {
 		siteUrl: `https://cara.lekoarts.de`,
 		siteDescription: `Webエンジニア：島津岳明のポートフォリオサイト`,
 		siteImage: `/banner.jpg`,
-		author: `@zp_takeaki0817`,
+		author: `@dev_takeaki0817`,
 	},
 	trailingSlash: `never`,
 	plugins: [
